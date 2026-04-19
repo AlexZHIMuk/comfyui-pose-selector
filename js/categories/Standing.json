@@ -1,0 +1,826 @@
+[
+  {
+    "name": "Standing 01",
+    "image": "Standing 01.jpg",
+    "prompt": "A back-profile medium shot of a character standing, turned away from the camera, looking back over the right shoulder. Both arms are raised, with hands gently holding the hair at the back of the head. The pose emphasizes the curve of the lower back and glutes.",
+    "hint": "Стоит спиной к камере, смотрит через правое плечо, обе руки подняты и касаются волос на затылке."
+  },
+  {
+    "name": "Standing 02",
+    "image": "Standing 02.jpg",
+    "prompt": "A close-up shot of a young woman standing and leaning toward the viewer, from her chin to her knees. We see her beautiful arms, firm, youthful breasts, a beautiful, expressive stomach, wide hips, and shapely legs. The woman tugs at the straps of her bra with her fingers.",
+    "hint": "Убрать описание головы, иначе не сработает крупный план"
+  },
+  {
+    "name": "Standing 03",
+    "image": "Standing 03.jpg",
+    "prompt": "A direct, frontal shot of a woman standing with a neutral posture. Hands are placed on the hips, putting down her pantie, and the weight is evenly distributed on both legs. The character is looking straight into the camera lens with a calm expression."
+  },
+  {
+    "name": "Standing 04",
+    "image": "Standing 04.jpg",
+    "prompt": "A frontal eye-level shot of a character standing against a dark backdrop with a circular spotlight. The character's right hand is placed on the hip, and the left arm is slightly raised with fingers curled near the shoulder. The posture is upright and confident.",
+    "hint": "Стоит прямо, правая рука на бедре, левая слегка поднята к плечу, фронтальный ракурс."
+  },
+  {
+    "name": "Standing 05",
+    "image": "Standing 05.jpg",
+    "prompt": "A frontal full-body shot of a character leaning against a concrete pillar in an industrial space. One leg is bent with the foot resting against the inner knee of the standing leg. One hand rests on the thigh of the bent leg, while the other arm hangs naturally. The camera is at eye level.",
+    "hint": "Стоит у колонны, одна нога согнута (ступня у колена), рука на бедре, фронтальный ракурс."
+  },
+  {
+    "name": "Standing 06",
+    "image": "Standing 06.jpg",
+    "prompt": "A frontal full-body shot of a character posing confidently next to a table. One hand rests on the table, while the other hand is placed on the hip. The character stands with legs together, wearing high heels. ",
+    "hint": "Стоит у стола, одна рука на столе, вторая на бедре."
+  },
+  {
+    "name": "Standing 07",
+    "image": "Standing 07.jpg",
+    "prompt": "A frontal full-body shot of a character standing near a wooden trellis post. One arm is raised with the hand resting on top of the post, while the other arm hangs naturally by the side. The character stands with a relaxed posture and looks toward the camera. The camera is at eye level.",
+    "hint": "Стоит у деревянного столба, одна рука поднята и опирается на столб."
+  },
+  {
+    "name": "Standing 08",
+    "image": "Standing 08.jpg",
+    "prompt": "A frontal full-body shot of a character standing on a balcony, leaning against an ornate railing. One arm is raised with the hand resting near the temple, while the other arm rests on the railing. The character is in a subtle contrapposto stance. The background features a classical building facade.",
+    "hint": "Стоит на балконе, прислонившись к перилам, одна рука у виска, вторая на перилам."
+  },
+  {
+    "name": "Standing 09",
+    "image": "Standing 09.jpg",
+    "prompt": "A frontal medium full-body shot of a character standing in a doorway. One arm is raised with the hand resting behind the head, while the other arm hangs loosely by the side. The character is in a subtle contrapposto stance with one leg slightly bent. The camera is at eye level, capturing a relaxed but confident posture.",
+    "hint": "Стоя в дверном проеме, одна рука поднята за голову, одна нога слегка согнута в колене."
+  },
+  {
+    "name": "Standing 10",
+    "image": "Standing 10.jpg",
+    "prompt": "A frontal medium shot of a character standing and leaning back against a counter. The hips are pushed slightly forward. Both arms are resting on the counter behind the back, supporting the body's weight. The head is tilted downwards and slightly to the left side.",
+    "hint": "Стоит, опираясь спиной о столешницу, подав бедра вперед, руки сзади, голова наклонена вниз."
+  },
+  {
+    "name": "Standing 11",
+    "image": "Standing 11.jpg",
+    "prompt": "A frontal medium shot of a character standing beside a counter, leaning slightly forward. The left hand rests on the left hip, while the right arm is extended with the hand resting flat on the counter surface. The head is turned slightly downwards.",
+    "hint": "Стоит у раковины, слегка наклонившись вперед, одна рука на бедре, другая опирается на стол, смотрит вниз."
+  },
+  {
+    "name": "Standing 12",
+    "image": "Standing 12.jpg",
+    "prompt": "A frontal medium shot of a character standing gracefully. One hand is raised, fingers lightly touching the collarbone. The character's head is tilted slightly with a calm gaze directed at the camera.  The camera is at eye level.",
+    "hint": "Стоит прямо, одна рука касается ключицы, на фоне классическая картина."
+  },
+  {
+    "name": "Standing 13",
+    "image": "Standing 13.jpg",
+    "prompt": "A frontal medium shot of a character standing in front of a dresser with a large mirror. One hand is placed on the hip, while the other arm is extended with the hand resting on the dresser surface. The character is looking at the camera, and their reflection is visible in the background mirror.",
+    "hint": "Стоит у туалетного столика, одна рука на бедре, другая на столе, виден зеркальный отблеск."
+  },
+  {
+    "name": "Standing 14",
+    "image": "Standing 14.jpg",
+    "prompt": "A frontal medium shot of a character standing upright and confident. Both arms hang naturally by the sides, with one hand holding a mobile phone. The posture is neutral and symmetrical. The camera is at eye level.",
+    "hint": "Фронтальный средний план, стоит прямо, руки опущены, в одной руке телефон."
+  },
+  {
+    "name": "Standing 15",
+    "image": "Standing 15.jpg",
+    "prompt": "A frontal medium shot of a character standing upright. Both hands are placed on the waistband of the denim shorts, pulling them slightly downwards. The character is looking directly at the camera with a neutral expression. The camera is at eye level.",
+    "hint": "Стоит прямо, руки на поясе шорт, фронтальный средний план."
+  },
+  {
+    "name": "Standing 16",
+    "image": "Standing 16.jpg",
+    "prompt": "A frontal medium shot of a character standing with a confident and sultry expression. One hand is placed on the hip, while the other arm hangs by the side. The character is wearing an open blazer over lingerie. The camera is at eye level.",
+    "hint": "Стоит прямо, одна рука на бедре, персонаж в расстегнутом жакете."
+  },
+  {
+    "name": "Standing 17",
+    "image": "Standing 17.jpg",
+    "prompt": "A frontal medium shot of a character standing. Both hands are placed on the upper thighs, slightly pulling the fabric of the dress. The character is looking upwards and away from the camera, with a dramatic expression.",
+    "hint": "Стоит прямо, руки на бедрах, тянет платье, взгляд направлен вверх и в сторону, боке на фоне."
+  },
+  {
+    "name": "Standing 18",
+    "image": "Standing 18.jpg",
+    "prompt": "A frontal medium-full shot of a character standing and leaning back against a rustic wooden fence. Both hands are placed firmly on the hips, and the body is upright. The character gazes forward with a calm expression. The background shows distant hills. The camera is at eye level.",
+    "hint": "Стоит, прислонившись спиной к деревянному забору, руки на бедрах."
+  },
+  {
+    "name": "Standing 19",
+    "image": "Standing 19.jpg",
+    "prompt": "A frontal medium-full shot of a character standing and leaning back against a wall. The character's eyes are closed, and one hand is placed gracefully over the chest. The body is slightly angled to one side, creating a soft, elegant silhouette. The camera is at eye level.",
+    "hint": "Стоит, прислонившись спиной к стене, глаза закрыты, одна рука на груди."
+  },
+  {
+    "name": "Standing 20",
+    "image": "Standing 20.jpg",
+    "prompt": "A frontal medium-full shot of a character standing upright. The body is slightly angled. The head is tilted back with eyes closed. The right arm is bent, with the hand resting on the chest. The left arm hangs loosely downwards by the side.",
+    "hint": "Стоит, слегка повернувшись, голова запрокинута назад, правая рука лежит на груди, левая опущена вниз."
+  },
+  {
+    "name": "Standing 21",
+    "image": "Standing 21.jpg",
+    "prompt": "A frontal shot of a character standing upright. Both hands are raised and placed symmetrically over the chest. The character gazes directly into the camera with a calm expression. The camera is at eye level.",
+    "hint": "Черно-белое фото, стоит прямо, обе руки закрывают грудь."
+  },
+  {
+    "name": "Standing 22",
+    "image": "Standing 22.jpg",
+    "prompt": "A frontal, eye-level shot of a character standing near a window with soft light. The character is looking down and slightly to the side, with a pensive expression. The arms are held loosely at the sides, and the posture is relaxed and natural."
+  },
+  {
+    "name": "Standing 23",
+    "image": "Standing 23.jpg",
+    "prompt": "A frontal, eye-level shot of a character standing still. The character is using both hands to lightly lift the bottom of their top, exposing the midriff. The pose is symmetrical and centered, with a slight tilt of the head."
+  },
+  {
+    "name": "Standing 24",
+    "image": "Standing 24.jpg",
+    "prompt": "A full-body shot of a character leaning against a wall. One arm is raised high above the head with the hand flat against the wall, while the other hand is tucked behind the head. One leg is slightly bent at the knee, creating a soft curve in the hip. The character is looking directly at the camera."
+  },
+  {
+    "name": "Standing 25",
+    "image": "Standing 25.jpg",
+    "prompt": "A low-angle frontal full-body shot of a character standing. The legs are spread wide in a powerful stance. The arms are crossed over the midsection, with one hand tucked near the hip. The character has an assertive expression.",
+    "hint": "Стоит перед объектом, ноги широко расставлены, руки скрещены на животе, низкий ракурс."
+  },
+  {
+    "name": "Standing 26",
+    "image": "Standing 26.jpg",
+    "prompt": "A low-angle rear view shot of a character ascending a spiral staircase. One leg is stepped up onto a higher stair, creating a dynamic vertical line. The focus is on the lower body and the curve of the back as the character looks slightly towards the side into the distance."
+  },
+  {
+    "name": "Standing 27",
+    "image": "Standing 27.jpg",
+    "prompt": "A low-angle rear view shot of a character standing on a balcony. The character is looking back over their shoulder at the camera with a slight smile. They are using both hands to lift the hem of their dress, revealing the backs of their legs and stockings. The pose is playful and dynamic, with a clear view of the heels and posture."
+  },
+  {
+    "name": "Standing 28",
+    "image": "Standing 28.jpg",
+    "prompt": "A low-angle side-profile medium shot of a character standing. One arm is raised with the hand resting on top of the head, while the other hand is placed on the hip. The character is looking back over the shoulder towards the camera. The background features a sunny beach.",
+    "hint": "Стоит в профиль, одна рука на голове, вторая на бедре, взгляд через плечо."
+  },
+  {
+    "name": "Standing 29",
+    "image": "Standing 29.jpg",
+    "prompt": "A low-angle side-view medium shot of a character leaning against a diagonal concrete wall. One hand is placed on the hip, while the other hand rests on the upper thigh. The character is looking towards the camera with a focused expression.",
+    "hint": "Стоит у бетонной стены, одна рука на бедре, вторая на ноге, низкий ракурс."
+  },
+  {
+    "name": "Standing 30",
+    "image": "Standing 30.jpg",
+    "prompt": "A medium close-up shot from a slightly low angle. The character is standing and leaning forward towards the camera, with hands placed firmly on the hips. The head is tilted upward, looking at the camera with a confident expression. The pose creates a strong triangular shape with the arms."
+  },
+  {
+    "name": "Standing 31",
+    "image": "Standing 31.jpg",
+    "prompt": "A medium fullsize frontal shot of a character standing with a playful posture. One hand is raised to the hair touching her hairs, while the other arm is relaxed at the side. The character is sticking their tongue out slightly towards the camera, adding a sense of fun and spontaneity to the centered pose."
+  },
+  {
+    "name": "Standing 32",
+    "image": "Standing 32.jpg",
+    "prompt": "A medium fullsize shot of a standing woman leaning forward onto a table. The character is resting their weight on their elbows, with one hand raised to the face, fingers lightly touching the chin and lips. Exposing her butt. The character is looking directly at the camera with a soft, inviting expression."
+  },
+  {
+    "name": "Standing 33",
+    "image": "Standing 33.jpg",
+    "prompt": "A medium fullsize shot of a woman leaning her back and hips against a wall. The woman is looking back over her shoulder towards the camera. One hand is raised to the chest, with fingers lightly touching the collarbone, creating a soft and graceful line along the torso. Her perfect hips hits a wall.",
+    "hint": "Сложная поза, может встать рядом, может вообще развернуться."
+  },
+  {
+    "name": "Standing 34",
+    "image": "Standing 34.jpg",
+    "prompt": "A medium fullsize shot of side view of a character standing and leaning forward over a table. The character is resting their weight on their hands, which are spread wide on the wooden surface. The shoulders are slightly hunched, and the character is looking directly at the camera with a focused, intense gaze."
+  },
+  {
+    "name": "Standing 35",
+    "image": "Standing 35.jpg",
+    "prompt": "A medium rear-view shot of a character looking back over their shoulder. The character is standing with their back slightly arched, and one hand is raised to the face with a finger touching the lips. The focus is on the silhouette and the playful, sensual expression.",
+    "hint": "Если не убрать голову, то получится полная картинка. Не тот акцент."
+  },
+  {
+    "name": "Standing 36",
+    "image": "Standing 36.jpg",
+    "prompt": "A medium rear-view shot of a character standing outdoors. The character is using both hands to lightly pull and adjust the edges of their clothing over the glutes. The focus is on the lower back and the symmetry of the pose, with a natural forest background."
+  },
+  {
+    "name": "Standing 37",
+    "image": "Standing 37.jpg",
+    "prompt": "A medium shot of a character standing against a wall. The character is in a three-quarter side-profile stance, leaning slightly forward. One hand is placed on the hip, and the other hand rests on the upper thigh. The character is looking directly at the camera with a confident expression.",
+    "hint": "Стоит у стены в профиль, рука на бедре, легкий наклон вперед."
+  },
+  {
+    "name": "Standing 38",
+    "image": "Standing 38.jpg",
+    "prompt": "A medium shot of a character standing against a wall. The character is positioned with a slight twist in the torso, one hand resting elegantly on the upper chest near the collarbone, and the other hand placed firmly on the hip. The head is turned toward the camera with a serene, confident expression and a soft gaze. The pose gracefully highlights the curves of the waist and the neckline.",
+    "hint": "Поза стоя, одна рука на бедре, другая на груди, взгляд в камеру, красный фон."
+  },
+  {
+    "name": "Standing 39",
+    "image": "Standing 39.jpg",
+    "prompt": "A medium-fullsize frontal shot of a character leaning against a door. One arm is raised and touching her hair, and the other hand is placed on the thigh. One leg is bent at the knee with the foot flat against the vertical frame, creating a dynamic, angular pose."
+  },
+  {
+    "name": "Standing 40",
+    "image": "Standing 40.jpg",
+    "prompt": "A profile medium shot of a character standing. The character is turned sideways but looking back at the camera. Both hands are clasped together at waist level. The posture is elegant and refined. The camera is at eye level.",
+    "hint": "Стоит в профиль на фоне зелени и огней, руки сцеплены в замок, взгляд на камеру."
+  },
+  {
+    "name": "Standing 41",
+    "image": "Standing 41.jpg",
+    "prompt": "A rear-view medium full-body shot of a character leaning forward over the backrest of an office chair. The character is looking back over their shoulder at the camera. The pose emphasizes the curve of the lower body and glutes. The camera is at eye level.",
+    "hint": "Опирается на спинку офисного кресла, вид сзади, взгляд через плечо на камеру."
+  },
+  {
+    "name": "Standing 42",
+    "image": "Standing 42.jpg",
+    "prompt": "A rear-view medium shot of a character standing. The character is positioned with their back to the camera but has turned their head to look back over their shoulder directly at the viewer. One hand is placed near the lower back.",
+    "hint": "Вид сзади, персонаж оглядывается через плечо."
+  },
+  {
+    "name": "Standing 43",
+    "image": "Standing 43.jpg",
+    "prompt": "A rear-view shot of a character standing on a balcony and leaning slightly forward with both hands resting on the railing. The pose emphasizes the curve of the back and the lower body. The camera is at eye level.",
+    "hint": "Вид сзади, стоит на балконе, опираясь руками на перила."
+  },
+  {
+    "name": "Standing 44",
+    "image": "Standing 44.jpg",
+    "prompt": "A side-profile medium shot of a character . The character is standing and looking back over their shoulder with a soft, neutral expression. The body is slightly tilted forward, accentuating the natural curve of the lower back and glutes. One arm is held naturally at the side, while the other is partially hidden. ",
+    "hint": "Вид сбоку, персонаж оглядывается через плечо, акцент на изгиб спины и ягодицы."
+  },
+  {
+    "name": "Standing 45",
+    "image": "Standing 45.jpg",
+    "prompt": "A side-profile shot of a character standing by an open window. One arm is raised high above the head with the hand bending gracefully, while the other hand rests flat on the windowsill. The character is looking up and out of the window, arching the back slightly.",
+    "hint": "Стоит у окна, одна рука высоко поднята, вторая на подоконнике, взгляд вверх и в сторону."
+  },
+  {
+    "name": "Standing 46",
+    "image": "Standing 46.jpg",
+    "prompt": "A similar shot of a character in a floral armchair. The character is leaning back more deeply, with one arm raised high above the head and the other resting on the armrest. The legs are extended forward, creating a long, relaxed line."
+  },
+  {
+    "name": "Standing 47",
+    "image": "Standing 47.jpg",
+    "prompt": "A three-quarter back view medium shot of a character leaning against a railing on a balcony. The character is looking back over their shoulder with a slight, playful smile. The hands are resting lightly on the railing, and the body is angled to emphasize the curve of the hips and back.",
+    "hint": "Вид со спины в три четверти, персонаж опирается на перила и оглядывается через плечо."
+  },
+  {
+    "name": "Standing 48",
+    "image": "Standing 48.jpg",
+    "prompt": "A three-quarter rear-view shot of a character leaning forward over a bathroom sink. The back is arched, and the head is tilted back slightly with eyes closed in a serene expression. One hand is resting on the edge of the sink, while the character's form is reflected in the mirror. The camera is at a slightly low angle, emphasizing the pose.",
+    "hint": "Стоя с наклоном вперед над раковиной в ванной, вид сзади (акцент на спине и ягодицах), голова слегка откинута назад."
+  },
+  {
+    "name": "Standing 49",
+    "image": "Standing 49.jpg",
+    "prompt": "A three-quarter side-profile medium full-body shot of a character standing in a contrapposto pose. The character is slightly leaning forward and arching their back, with one hand placed firmly on the hip. The camera is at eye level, capturing the graceful curve of the spine.",
+    "hint": "Стоя в позе контрапост, легкий наклон вперед и прогиб в спине, рука на бедре."
+  },
+  {
+    "name": "Standing 50",
+    "image": "Standing 50.jpg",
+    "prompt": "Camera positioned at eye level, front-facing. She stands with a direct, confident gaze, fixed straight ahead—her eyes unblinking, her lips slightly parted in a sensual, commanding expression. Her torso is tilted slightly toward the viewer, and her hips are pulled inward; one hand tugs her panties slightly to the side, the other hangs loosely by her side. Her legs are slightly apart, but not wide, her hips close together, yet clearly defined by the natural glow of her skin from the ambient lighting."
+  },
+  {
+    "name": "Standing 51",
+    "image": "Standing 51.jpg",
+    "prompt": "Camera positioned behind her, capturing full rear view. She stands with her thighs slightly apart, her hands resting gently on her buttocks, fingers spread, thumbs lightly touching the outer thighs. Her hands lightly grasp her buttocks from below. Her body is slightly tilted to the left, away from the viewer; her spine is straight but relaxed, her shoulders are slightly down. Her long hair falls down her back in loose waves, partially concealing her lower back. Due to the angle, there is no head movement or visible facial expression. The pose suggests deliberate stillness, with minimal tension visible only in the fingertips touching her skin. Overall, the pose conveys calm confidence without overt sensuality."
+  },
+  {
+    "name": "Standing 52",
+    "image": "Standing 52.jpg",
+    "prompt": "Confident yet seductive posture, leaning slightly backward, one arm rests across her midsection, both hands grip tightly onto either side of her hips/upper thighs."
+  },
+  {
+    "name": "Standing 53",
+    "image": "Standing 53.jpg",
+    "prompt": "Full-body front view, standing against a wall, head tilted back with hair covering the face, one arm crossed over the chest to cover breasts, bare skin, wearing high-heeled shoes."
+  },
+  {
+    "name": "Standing 54",
+    "image": "Standing 54.jpg",
+    "prompt": "Leaning against a countertop, eyes closed, head tilted upward and back, one hand touching collar at throat."
+  },
+  {
+    "name": "Standing 55",
+    "image": "Standing 55.jpg",
+    "prompt": "Leaning against a pillar near large windows, one leg rests bent forward atop the other knee positioned firmly planted beside her, one hand rests gently upon her own right thigh, left arm hangs loosely along her flank."
+  },
+  {
+    "name": "Standing 56",
+    "image": "Standing 56.jpg",
+    "prompt": "Leaning against a table, one hand touching ear, other hand on hip, looking down.",
+    "hint": "Рядом с автомобилем / сменил на стол"
+  },
+  {
+    "name": "Standing 57",
+    "image": "Standing 57.jpg",
+    "prompt": "Leaning against a window frame on a balcony, head tilted back slightly, lips parted, one hand rests lightly on the white-framed window sill while she leans into its structure for support, hips angled forward, legs positioned suggestively."
+  },
+  {
+    "name": "Standing 58",
+    "image": "Standing 58.jpg",
+    "prompt": "Leaning against the window, one hand on windowsill, other arm behind head, legs crossed at ankles.",
+    "hint": "Упирается о крышку багажника автомобиля / сменил на подоконник"
+  },
+  {
+    "name": "Standing 59",
+    "image": "Standing 59.jpg",
+    "prompt": "Leaning casually against a concrete surface, one hand rests lightly near her hip."
+  },
+  {
+    "name": "Standing 60",
+    "image": "Standing 60.jpg",
+    "prompt": "Leaning forward over a bathroom counter, one hand on edge, the other hanging loosely, head tilted upward."
+  },
+  {
+    "name": "Standing 61",
+    "image": "Standing 61.jpg",
+    "prompt": "Leaning forward over a counter with one hand on its edge, legs slightly apart, back to camera."
+  },
+  {
+    "name": "Standing 62",
+    "image": "Standing 62.jpg",
+    "prompt": "Leaning forward over the backrest of a ergonomic swivel office chair, positioning herself so that her rear end forms a prominent curve visible behind the chairвЂ™s structure, head tilted subtly toward one shoulder."
+  },
+  {
+    "name": "Standing 63",
+    "image": "Standing 63.jpg",
+    "prompt": "Leaning forward, one hand on a stone ledge, other arm wrapped across breast area, looking at viewer."
+  },
+  {
+    "name": "Standing 64",
+    "image": "Standing 64.jpg",
+    "prompt": "Leaning forward, one hand on hip, other hand touching lower abdomen."
+  },
+  {
+    "name": "Standing 65",
+    "image": "Standing 65.jpg",
+    "prompt": "Leans slightly forward against a window ledge while one hand rests lightly upon it for support."
+  },
+  {
+    "name": "Standing 66",
+    "image": "Standing 66.jpg",
+    "prompt": "Low-angle rear view, leaning forward against a wall with long hair hanging down and covering the face, pants pulled down to the mid-thigh, exposing the glutes."
+  },
+  {
+    "name": "Standing 67",
+    "image": "Standing 67.jpg",
+    "prompt": "Low-angle rear view, standing with back to camera, head turned over shoulder to look away, a robe is draped low around the hips, exposing the bare back and glutes."
+  },
+  {
+    "name": "Standing 68",
+    "image": "Standing 68.jpg",
+    "prompt": "Medium rear view, standing with back to camera, head turned away, hands reaching back to touch the glutes."
+  },
+  {
+    "name": "Standing 69",
+    "image": "Standing 69.jpg",
+    "prompt": "Medium rear view, standing with back to camera, head turned over one shoulder to look back, one arm raised to hold the hair, wearing a T-shirt pulled up to the waist and panties.",
+    "hint": "В футболке"
+  },
+  {
+    "name": "Standing 70",
+    "image": "Standing 70.jpg",
+    "prompt": "Medium shot from behind, leaning against a wall and looking away, focusing on the glutes."
+  },
+  {
+    "name": "Standing 71",
+    "image": "Standing 71.jpg",
+    "prompt": "Standing against a backdrop of glass panels, right hand gently touching the side of her head near her temple, left arm resting along her hip, subtly curved inward toward her waistline."
+  },
+  {
+    "name": "Standing 72",
+    "image": "Standing 72.jpg",
+    "prompt": "Standing against a plain wall, right arm resting gently atop her left breast while fingers lightly press into soft tissue near the nipple area, other hand hanging loosely by her side."
+  },
+  {
+    "name": "Standing 73",
+    "image": "Standing 73.jpg",
+    "prompt": "Standing against a wall with back to camera, arms raised high pressing into the wall, hips wide apart."
+  },
+  {
+    "name": "Standing 74",
+    "image": "Standing 74.jpg",
+    "prompt": "Standing barefoot on concrete ground, legs spread slightly apart for emphasis, feet positioned close together but angled outward, arms crossed tightly across her midsection while one hand rests near her hip, direct eye contact toward the camera with lips parted slightly."
+  },
+  {
+    "name": "Standing 75",
+    "image": "Standing 75.jpg",
+    "prompt": "Standing behind curtains, one arm raised above head pulling on curtain edge, face turned slightly away."
+  },
+  {
+    "name": "Standing 76",
+    "image": "Standing 76.jpg",
+    "prompt": "Standing by an open window, back partially turned toward the camera, head tilted upward and slightly backward, one arm raised high above her head bending gracefully behind her neck, other hand resting flat on the windowsill for support."
+  },
+  {
+    "name": "Standing 77",
+    "image": "Standing 77.jpg",
+    "prompt": "Standing facing slightly away from camera, head turned upward toward the sky, one hand rests near her hip while gripping fabric at waist level."
+  },
+  {
+    "name": "Standing 78",
+    "image": "Standing 78.jpg",
+    "prompt": "Standing facing the camera, looking straight ahead, arms crossed tightly over her midsection."
+  },
+  {
+    "name": "Standing 79",
+    "image": "Standing 79.jpg",
+    "prompt": "Standing in a narrow hallway, turns slowly toward the camera but keeps her head turned away, one hand rests lightly against the wall while another arm hangs limply by her right hip."
+  },
+  {
+    "name": "Standing 80",
+    "image": "Standing 80.jpg",
+    "prompt": "Standing in a three-quarters profile, one hand rests on her hip/lower abdomen region, fingers splayed outwards toward her glutes."
+  },
+  {
+    "name": "Standing 81",
+    "image": "Standing 81.jpg",
+    "prompt": "Standing in front of a tall floor mirror with her back turned toward the camera, upright but relaxed, arms slightly away from her sides, hands resting near her thighs, head tilted slightly downward."
+  },
+  {
+    "name": "Standing 82",
+    "image": "Standing 82.jpg",
+    "prompt": "Standing in profile (viewed from behind), head tilted upward, arms loosely draped around torso."
+  },
+  {
+    "name": "Standing 83",
+    "image": "Standing 83.jpg",
+    "prompt": "Standing in profile view but turning her head over her shoulder to look directly into the camera, hips angled forward, rear prominently displayed toward the viewer, lifts skirt slightly with one hand near its hemline."
+  },
+  {
+    "name": "Standing 84",
+    "image": "Standing 84.jpg",
+    "prompt": "Standing in profile view next to a bed, leaning against a wall, arms bent at the elbows with fingers gripping a phone, holding a towel loosely around her torso."
+  },
+  {
+    "name": "Standing 85",
+    "image": "Standing 85.jpg",
+    "prompt": "Standing nude, facing away from the camera, holding fabric around herself like a towel draped low over hips and lower torso, both hands gripping edges of cloth on either side, relaxed shoulders, spine aligned straight."
+  },
+  {
+    "name": "Standing 86",
+    "image": "Standing 86.jpg",
+    "prompt": "Standing on stone steps, one hand holding a satchel bag while the other gently brushes hair away from her face."
+  },
+  {
+    "name": "Standing 87",
+    "image": "Standing 87.jpg",
+    "prompt": "Standing sideways against a plain off-white pillar, one hand rests on the wall beside her while the other lightly touches behind her head, tilting slightly downward, looking away toward the light source, eyes softly closed or cast down."
+  },
+  {
+    "name": "Standing 88",
+    "image": "Standing 88.jpg",
+    "prompt": "Standing slightly sideways facing away from the camera but looking over her shoulder towards the viewerвЂ™s left side, lips parted subtly, arms held loosely by sides with fingers curled inward."
+  },
+  {
+    "name": "Standing 89",
+    "image": "Standing 89.jpg",
+    "prompt": "Standing upright against a plain beige wall while raising both hands behind her head, fingers interlaced around her own hair, gaze directed off-camera toward the right side."
+  },
+  {
+    "name": "Standing 90",
+    "image": "Standing 90.jpg",
+    "prompt": "Standing upright, actively pulling her t-shirt up and away from her torso to expose her chest."
+  },
+  {
+    "name": "Standing 91",
+    "image": "Standing 91.jpg",
+    "prompt": "Standing upright, facing slightly away from the camera while turning over her shoulder to smile at the viewer."
+  },
+  {
+    "name": "Standing 92",
+    "image": "Standing 92.jpg",
+    "prompt": "Standing with her back to the camera, wearing large over-ear headphones around her neck, standing upright without leaning forward."
+  },
+  {
+    "name": "Standing 93",
+    "image": "Standing 93.jpg",
+    "prompt": "Standing with her back turned toward the camera, hands rest gently on either side of her hips, fingers spread across the contours of her buttocks."
+  },
+  {
+    "name": "Standing 94",
+    "image": "Standing 94.jpg",
+    "prompt": "Standing with one hand on hip, the other raised near cheekbone forming a \"phone\" gesture."
+  },
+  {
+    "name": "Standing 95",
+    "image": "Standing 95.jpg",
+    "prompt": "Standing with right arm raised behind head gripping hair, left leg slightly bent forward."
+  },
+  {
+    "name": "Standing 96",
+    "image": "Standing 96.jpg",
+    "prompt": "Standing with slight forward lean, one hand touching garment near hips, other hand at side, head tilted down."
+  },
+  {
+    "name": "Standing 97",
+    "image": "Standing 97.jpg",
+    "prompt": "Standing, arms crossed tightly over torso, hands near ribs, one leg forward."
+  },
+  {
+    "name": "Standing 98",
+    "image": "Standing 98.jpg",
+    "prompt": "Standing, arms extended slightly forward supporting the weight of an open book held over her eyes."
+  },
+  {
+    "name": "Standing 99",
+    "image": "Standing 99.jpg",
+    "prompt": "Standing, back partially turned, looking over shoulder at viewer, holding doorframe handles with both hands."
+  },
+  {
+    "name": "Standing 100",
+    "image": "Standing 100.jpg",
+    "prompt": "Standing, balancing slightly off-center, one hand lifting skirt at hip, other hand holding skirt hem behind back."
+  },
+  {
+    "name": "Standing 101",
+    "image": "Standing 101.jpg",
+    "prompt": "Standing, facing away slightly, head turned back to viewer, one hand on hip, other hand touching draped cloth."
+  },
+  {
+    "name": "Standing 102",
+    "image": "Standing 102.jpg",
+    "prompt": "Standing, looking downward with closed eyes, hands pulling up top over torso."
+  },
+  {
+    "name": "Standing 103",
+    "image": "Standing 103.jpg",
+    "prompt": "Standing, right hand touching lower lip, left fist on upper torso below collarbone, looking at camera."
+  },
+  {
+    "name": "Standing 104",
+    "image": "Standing 104.jpg",
+    "prompt": "Stands confidently, one hand resting gently near her collarbone while the other lightly touches her thigh."
+  },
+  {
+    "name": "Standing 105",
+    "image": "Standing 105.jpg",
+    "prompt": "Stands upright but relaxed, hands clasped lightly together at waist level, fingers interlaced near mid-thighs."
+  },
+  {
+    "name": "Standing 106",
+    "image": "Standing 106.jpg",
+    "prompt": "The woman stands near the wall, resting her elbows on the wall, her left hand supporting her right hand. Her eyes are closed, her butt is pulled back and tilted, and her back is arched."
+  },
+  {
+    "name": "Standing 107",
+    "image": "Standing 107.jpg",
+    "prompt": "Upright but relaxed, facing slightly away from the camera, one hand extended forward at waist level pointing toward a cat."
+  },
+  {
+    "name": "Standing 108",
+    "image": "Standing 108.jpg",
+    "prompt": "leaning against a doorway frame with her hands clasped near her neck and head tilted downward."
+  },
+  {
+    "name": "Standing 109",
+    "image": "Standing 109.jpg",
+    "prompt": "leaning against a plain wall with one hand gently across her upper chest."
+  },
+  {
+    "name": "Standing 110",
+    "image": "Standing 110.jpg",
+    "prompt": "leaning against a wall; one hand rests lightly on her thigh while the other arm hangs loosely along her side."
+  },
+  {
+    "name": "Standing 111",
+    "image": "Standing 111.jpg",
+    "prompt": "leaning slightly forward resting hands gently upon wooden railings; head tilts downward, eyes remain closed."
+  },
+  {
+    "name": "Standing 112",
+    "image": "Standing 112.jpg",
+    "prompt": "posing intimately close-up on a soft surface; head tilted gently downward, one arm rests across her midsection while leaning into the frame."
+  },
+  {
+    "name": "Standing 113",
+    "image": "Standing 113.jpg",
+    "prompt": "posing seductively; one hand rests lightly on her hip, fingers curled inward near the waistband, other arm hangs loosely by her side, leaning forward slightly."
+  },
+  {
+    "name": "Standing 114",
+    "image": "Standing 114.jpg",
+    "prompt": "standing near a table; one hand near the table while the other rests along her hip.",
+    "hint": "Стоит около автомобиля / сменил на стол"
+  },
+  {
+    "name": "Standing 115",
+    "image": "Standing 115.jpg",
+    "prompt": "standing near a tall window, positioned slightly sideways but turned back; one hand grips the windowsill edge, the other hand hangs relaxed beside her torso."
+  },
+  {
+    "name": "Standing 116",
+    "image": "Standing 116.jpg",
+    "prompt": "standing near a window; facing away from the camera, one hand rests on the edge of a nightstand while the other is slightly raised toward the drapes."
+  },
+  {
+    "name": "Standing 117",
+    "image": "Standing 117.jpg",
+    "prompt": "standing provocatively against tiled walls with her head tilted slightly back and eyes looking upward."
+  },
+  {
+    "name": "Standing 118",
+    "image": "Standing 118.jpg",
+    "prompt": "standing slightly angled toward the camera while leaning forward with one hand resting on her belly."
+  },
+  {
+    "name": "Standing 119",
+    "image": "Standing 119.jpg",
+    "prompt": "standing with one heel resting against the edge of a desk while the other leg is crossed over."
+  },
+  {
+    "name": "Standing 120",
+    "image": "Standing 120.jpg",
+    "prompt": "standing; both hands grip her jacket collar pulling it toward her waistline, upright yet relaxed."
+  },
+  {
+    "name": "Standing 121",
+    "image": "Standing 121.jpg",
+    "prompt": "standing; hands adjust the front lacing of her garter belt while one arm rests lightly on her hip, gaze lowered.",
+    "hint": "Взаимодействует с поясом для чулок"
+  },
+  {
+    "name": "Standing 122",
+    "image": "Standing 122.jpg",
+    "prompt": "viewed from behind, back arched slightly as she leans forward against a balcony railing with both hands gripping its top edge."
+  },
+  {
+    "name": "Standing 123",
+    "image": "Standing 123.jpg",
+    "prompt": "A side-profile shot of a character. The character's back is deeply arched, with both arms raised high and hands clasped behind the head. The head is tilted back slightly with eyes closed in a blissful expression. The pose emphasizes the elongated torso and the curvature of the chest and abdomen.",
+    "hint": "Профиль, глубокий прогиб в спине, руки за головой, глаза закрыты."
+  },
+  {
+    "name": "Standing 124",
+    "image": "Standing 124.jpg",
+    "prompt": "Body glistening, arms crossed across her torso, face turns slightly toward the camera, one hand rests near her hip, staring directly into the lens."
+  },
+  {
+    "name": "Standing 125",
+    "image": "Standing 125.jpg",
+    "prompt": "Confident posture with one leg crossed over the other, right hand lightly against her hip while her left arm hangs relaxed by her side."
+  },
+  {
+    "name": "Standing 126",
+    "image": "Standing 126.jpg",
+    "prompt": "Head tilted back toward sunlight, one hand rests gently atop her hair near temple area while other arm remains relaxed by side."
+  },
+  {
+    "name": "Standing 127",
+    "image": "Standing 127.jpg",
+    "prompt": "Medium close-up, focusing on the torso and chest, wearing bra and matching harness, hands pulling on the bra straps, head and lower body partially out of frame."
+  },
+  {
+    "name": "Standing 128",
+    "image": "Standing 128.jpg",
+    "prompt": "Medium shot front view, looking directly at the camera with a neutral expression, one hand pulling at the waistband of the panties."
+  },
+  {
+    "name": "Standing 129",
+    "image": "Standing 129.jpg",
+    "prompt": "One arm is raised behind her head, fingers gently brushing through strands of hair near her temple, other hand rests loosely beside her thigh."
+  },
+  {
+    "name": "Standing 130",
+    "image": "Standing 130.jpg",
+    "prompt": "One hand resting lightly atop her hip while her other arm hangs relaxed down beside her torso."
+  },
+  {
+    "name": "Standing 131",
+    "image": "Standing 131.jpg",
+    "prompt": "Right hand rests on her hip while her left arm is slightly raised, fingers delicately curled near her shoulder blade area."
+  },
+  {
+    "name": "Standing 132",
+    "image": "Standing 132.jpg",
+    "prompt": "arms cross over her torso protectively while one hand gently rests on the edge of the neckline; gazing directly into the camera."
+  },
+  {
+    "name": "Standing 133",
+    "image": "Standing 133.jpg",
+    "prompt": "posing provocatively with hips thrust forward and one hand holding onto her hip area."
+  },
+  {
+    "name": "Standing 134",
+    "image": "Standing 134.jpg",
+    "prompt": "posing seductively with hands resting on her torso and her right leg resting atop her left knee."
+  },
+  {
+    "name": "Standing 135",
+    "image": "Standing 135.jpg",
+    "prompt": "posing seductively with her right hand resting near her head and another arm draped low along a table."
+  },
+  {
+    "name": "Standing 136",
+    "image": "Standing 136.jpg",
+    "prompt": "upper torso through mid-thigh level; one arm rests against her shoulder, fingers lightly curled around her own bicep, slight tilt of head."
+  },
+  {
+    "name": "Standing 137",
+    "image": "Standing 137.jpg",
+    "prompt": "An extreme low-angle side view of a character standing and leaning forward. The camera is positioned very low, looking up at the character, emphasizing the length of the legs and the forward tilt of the torso.",
+    "hint": "Стоя, наклон вперед, экстремально низкий угол обзора сбоку."
+  },
+  {
+    "name": "Standing 138",
+    "image": "Standing 138.jpg",
+    "prompt": "A full-body shot of a character standing with their legs spread apart. The character is leaning forward with an arched back and their head tilted upward. The pose conveys a sense of tension and openness.",
+    "hint": "Стоя, ноги врозь, наклон вперед с прогибом в спине, голова поднята."
+  },
+  {
+    "name": "Standing 139",
+    "image": "Standing 139.jpg",
+    "prompt": "An extreme high-angle front-view shot looking down at a standing character. The character is leaning forward towards the camera, which emphasizes the upper body and the perspective of the legs stretching away.",
+    "hint": "Стоя, наклон вперед, экстремальный вид сверху спереди."
+  },
+  {
+    "name": "Standing 140",
+    "image": "Standing 140.jpg",
+    "prompt": "A high-angle shot from behind of a character standing and leaning forward. The focus is on the muscles of the back and the curve of the spine as the character tilts their weight forward.",
+    "hint": "Стоя, наклон вперед, вид сзади сверху, акцент на спину."
+  },
+  {
+    "name": "Standing 141",
+    "image": "Standing 141.jpg",
+    "prompt": "An extreme high-angle rear view of a character standing and leaning forward with a deeply arched back. The camera looks down from directly behind, emphasizing the dramatic curve of the lower back and the positioning of the hips.",
+    "hint": "Стоя, сильный наклон вперед и прогиб в спине, вид сверху сзади."
+  },
+  {
+    "name": "Standing 142",
+    "image": "Standing 142.jpg",
+    "prompt": "A diagonal, asymmetrical shot of a character standing against a wall and leaning their weight back. Their arms are raised above their head, and their legs are crossed at the ankles. The pose creates a long, lean line against the vertical surface.",
+    "hint": "Стоя у стены, отклонившись назад, руки подняты, ноги скрещены."
+  },
+  {
+    "name": "Standing 143",
+    "image": "Standing 143.jpg",
+    "prompt": "A frontal shot of a character in a classic contrapposto stance with a twist. One knee is raised slightly, and the torso is rotated, creating an asymmetrical and dynamic silhouette. The weight is clearly shifted to one leg.",
+    "hint": "Поза контрапост (вес на одной ноге), одно колено приподнято, корпус развернут."
+  },
+  {
+    "name": "Standing 144",
+    "image": "Standing 144.jpg",
+    "prompt": "A full-body shot from a high angle looking down at a character who is standing and bent over forward. The perspective shortens the torso and emphasizes the crown of the head and the extension of the legs.",
+    "hint": "Стоя, наклон вперед (согнувшись), вид сверху."
+  },
+  {
+    "name": "Standing 145",
+    "image": "Standing 145.jpg",
+    "prompt": "A side-view shot of a character standing on one leg with the other knee raised high. The character maintains a balanced, upright posture. The focus is on the clean lines of the profile and the positioning of the feet.",
+    "hint": "Стоя на одной ноге, другое колено высоко поднято, вид сбоку."
+  },
+  {
+    "name": "Standing 146",
+    "image": "Standing 146.jpg",
+    "prompt": "A dynamic shot of a character standing and twisting their torso to look back over their shoulder. The camera is at a Dutch angle, creating a sense of movement and foreshortening as the hips and shoulders are on different planes.",
+    "hint": "Стоя, скручивание корпуса, взгляд назад, голландский угол."
+  },
+  {
+    "name": "Standing 147",
+    "image": "Standing 147.jpg",
+    "prompt": "A low-angle shot from slightly behind and to the side of a character standing with their legs apart. The camera looks up at the character's back and the curve of their torso, emphasizing the height and spatial presence of the pose.",
+    "hint": "Стоя, ноги врозь, вид снизу сбоку, акцент на изгибы тела."
+  },
+  {
+    "name": "Standing 148",
+    "image": "Standing 148.jpg",
+    "prompt": "A shot of a character leaning backward against a wall with their arms raised up. The camera is tilted at a Dutch angle, making the leaning pose feel more dramatic and unstable against the flat surface.",
+    "hint": "Облокотившись на стену спиной, руки вверх, голландский угол."
+  },
+  {
+    "name": "Standing 149",
+    "image": "Standing 149.jpg",
+    "prompt": "A full-body quarter-view shot of a character standing against a wall with their head tilted back. One hand hangs loosely by their side. the pose is relaxed and leans slightly into the vertical support.",
+    "hint": "Стоя у стены, голова откинута назад, вид в три четверти."
+  },
+  {
+    "name": "Standing 150",
+    "image": "Standing 150.jpg",
+    "prompt": "A frontal shot of a character in a dynamic, asymmetrical pose that creates a clear S-shape through the body. The character uses a contrapposto stance with one hip thrust to the side and the torso bending in the opposite direction.",
+    "hint": "Динамичная S-образная поза, бедро отставлено в сторону, изгиб корпуса."
+  },
+  {
+    "name": "Standing 151",
+    "image": "Standing 151.jpg",
+    "prompt": "A side-view shot of a character standing and leaning their weight backward, supported by one arm reaching out to a nearby object or surface. The pose creates a gentle curve through the entire body.",
+    "hint": "Стоя, отклонившись назад с опорой на руку, вид сбоку."
+  },
+  {
+    "name": "Standing 152",
+    "image": "Standing 152.jpg",
+    "prompt": "A frontal shot of a character in a dynamic, asymmetrical pose that creates a clear S-shape through the body. The character uses a contrapposto stance with one hip thrust to the side and the torso bending in the opposite direction.",
+    "hint": "S-образный изгиб тела, классический контрапост, вид спереди."
+  },
+  {
+    "name": "Standing 153",
+    "image": "Standing 153.jpg",
+    "prompt": "A low-angle side-view shot of a character in a complex, dynamic pose. The character is standing with an S-shaped body curve, leaning forward while simultaneously arching their back. One hip is thrust aside in an asymmetrical contrapposto stance.",
+    "hint": "Динамичная стоячая поза с изгибом и наклоном, вид снизу сбоку."
+  }
+]

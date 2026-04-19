@@ -1,0 +1,620 @@
+[
+  {
+    "name": "Sitting 01",
+    "image": "Sitting 01.jpg",
+    "prompt": "A dynamic shot of a character in a deep squatting pose within a doorway. One hand is placed high on the door frame for balance, while the other hand rests on the hip. One foot is flat on the ground, and the other is poised on its toes, creating a sense of tension and readiness."
+  },
+  {
+    "name": "Sitting 02",
+    "image": "Sitting 02.jpg",
+    "prompt": "A frontal eye-level shot of a character sitting cross-legged on an ottoman. The character's back is gracefully arched, and the head is tilted back with closed eyes. The right hand rests lightly on the right ankle, while the left arm is raised with fingers running through the hair.",
+    "hint": "Сидит по-турецки на пуфике, откинув голову назад, одна рука на лодыжке, другая в волосах."
+  },
+  {
+    "name": "Sitting 03",
+    "image": "Sitting 03.jpg",
+    "prompt": "A frontal full-body shot of a character sitting in an armchair. The legs are crossed with the left leg over the right. The right arm rests on the armrest, with the hand supporting the side of the head. The left hand rests relaxed on the lap.",
+    "hint": "Сидит в кресле, закинув левую ногу на правую, правая рука подпирает голову, левая лежит на коленях."
+  },
+  {
+    "name": "Sitting 04",
+    "image": "Sitting 04.jpg",
+    "prompt": "A frontal full-body shot of a character sitting on a plush chair. One leg is bent with the knee raised to the chest, while the other leg rests comfortably on the floor. Both arms are wrapped around the raised knee, and the head is tilted slightly to the side. The camera is at eye level.",
+    "hint": "Сидит в кресле, одно колено прижато к груди и обхвачено руками, вторая нога на полу."
+  },
+  {
+    "name": "Sitting 05",
+    "image": "Sitting 05.jpg",
+    "prompt": "A frontal fullsize shot of a woman sitting on a stepped platform. The woman are spreading her legs wide, and both hands are placed on the top of her hips between the legs. The head is tilted back slightly, looking at the camera from a low perspective."
+  },
+  {
+    "name": "Sitting 06",
+    "image": "Sitting 06.jpg",
+    "prompt": "A frontal medium full-body shot of a character kneeling on the floor against a red curtain. The character is sitting on their heels with both hands raised to the head, fingers resting near the temples. The camera is at eye level, capturing a direct gaze with a calm expression.",
+    "hint": "Сидя на коленях (на пятках) лицом к камере, обе руки поднесены к голове (к вискам)."
+  },
+  {
+    "name": "Sitting 07",
+    "image": "Sitting 07.jpg",
+    "prompt": "A frontal medium fullsize shot of a character sitting on a sofa. The character is leaning sideways against the armrest with one arm. One leg is bent and pulled close to the chest, while the other leg is extended forward. One hand is raised, brushing through the hair.",
+    "hint": "Сидит на диване, прислонившись к подлокотнику, одно колено подтянуто к груди, рука в волосах."
+  },
+  {
+    "name": "Sitting 08",
+    "image": "Sitting 08.jpg",
+    "prompt": "A frontal medium shot of a character sitting comfortably in an upholstered armchair. The legs are crossed, and one hand is raised, fingers lightly touching the collarbone. The character's head is tilted slightly to the side with a serene expression. The camera is at eye level.",
+    "hint": "Сидит в кресле, ноги скрещены, одна рука касается ключицы."
+  },
+  {
+    "name": "Sitting 09",
+    "image": "Sitting 09.jpg",
+    "prompt": "A frontal medium shot of a character sitting on a chair with legs slightly apart. Both hands are raised and resting on the chest. The shoulders are pulled slightly forward, and the head is facing forward.",
+    "hint": "Сидит на стуле, ноги слегка расставлены, обе руки подняты и лежат на груди."
+  },
+  {
+    "name": "Sitting 10",
+    "image": "Sitting 10.jpg",
+    "prompt": "A frontal medium shot of a character sitting on a plush sofa. The character is leaning back against the sofa's backrest, with one arm extended along the top of the cushions. The legs are bent and tucked comfortably. The character gazes directly at the camera.",
+    "hint": "Сидит на розовом диване, откинувшись назад, одна рука на спинке дивана."
+  },
+  {
+    "name": "Sitting 11",
+    "image": "Sitting 11.jpg",
+    "prompt": "A frontal medium shot of a character sitting on a plush sofa. The character is leaning forward with the upper body towards the camera. Both legs are bent and tucked to the side. One hand rests on the sofa cushion for support. The character is looking directly at the camera.",
+    "hint": "Сидит на диване, наклонившись вперед, ноги подогнуты в сторону, рука на диване."
+  },
+  {
+    "name": "Sitting 12",
+    "image": "Sitting 12.jpg",
+    "prompt": "A frontal medium shot of a character sitting on a sofa. The legs are crossed at the ankles. The character is leaning slightly forward, with one hand resting on the sofa cushion for support. The character is looking directly at the camera with a neutral expression.",
+    "hint": "Сидит на диване, ноги скрещены, корпус слегка наклонен вперед."
+  },
+  {
+    "name": "Sitting 13",
+    "image": "Sitting 13.jpg",
+    "prompt": "A frontal medium shot of a character sitting on an outdoor sofa. One leg is bent with the foot resting on the sofa cushion, while the other leg is tucked underneath. One arm is resting on the raised knee. The character is looking at the camera.",
+    "hint": "Сидит на диване, одно колено поднято, рука на колене, вторая нога подогнута."
+  },
+  {
+    "name": "Sitting 14",
+    "image": "Sitting 14.jpg",
+    "prompt": "A frontal medium-full shot of a character sitting in a office chair. The character is leaning back with legs crossed at the knee. Both hands are raised and resting behind the head with fingers interlaced. The eyes are closed, and the expression is relaxed.",
+    "hint": "Сидит в офисном кресле, откинувшись назад, ноги скрещены, руки за головой, глаза закрыты."
+  },
+  {
+    "name": "Sitting 15",
+    "image": "Sitting 15.jpg",
+    "prompt": "A frontal medium-full shot of a character sitting in a office chair. The legs are slightly spread with knees pointing outwards, and the character sits with an upright posture. Both hands rest relaxed on the thighs. The setting is a modern kitchen. The camera is at eye level.",
+    "hint": "Сидит в офисном кресле, колени разведены в стороны, руки лежат на бедрах."
+  },
+  {
+    "name": "Sitting 16",
+    "image": "Sitting 16.jpg",
+    "prompt": "A frontal shot of a character kneeling on the floor. The character is using both hands to lightly pull and adjust the fabric of their clothing near the hips. The torso is upright, and the head is tilted slightly to the side, looking towards the camera."
+  },
+  {
+    "name": "Sitting 17",
+    "image": "Sitting 17.jpg",
+    "prompt": "A frontal shot of a character sitting in a chair. The character is leaning forward slightly with legs spread wide. One hand is raised to the face, with a finger resting on the lower lip, while the other arm rests on the thigh. The expression is sensual and direct."
+  },
+  {
+    "name": "Sitting 18",
+    "image": "Sitting 18.jpg",
+    "prompt": "A frontal, slightly low-angle shot of a character sitting on the edge of a counter with both legs hanging down. The torso leans back, supported by both hands resting flat on the counter behind the hips. The head is tilted back with eyes closed.",
+    "hint": "Сидит на краю стола, свесив ноги, откинув корпус и голову назад, опираясь руками позади себя."
+  },
+  {
+    "name": "Sitting 19",
+    "image": "Sitting 19.jpg",
+    "prompt": "A fullsize low-angle shot of a character kneeling on a flat surface. The character is leaning back significantly, supported by one straight arm reaching behind them, with the palm pressed to the floor. The other arm is bent, with the hand resting on the back of the head. The torso is stretched and the back is arched toward the up."
+  },
+  {
+    "name": "Sitting 20",
+    "image": "Sitting 20.jpg",
+    "prompt": "A fullsize rear-view shot of a woman sitting on floor. The character sits with legs tucked, and one hand is raised to the head, fingers running through the hair. The camera is at a low angle.",
+    "hint": "Вид сзади, сидит как будто на траве, одна рука в волосах."
+  },
+  {
+    "name": "Sitting 21",
+    "image": "Sitting 21.jpg",
+    "prompt": "A fullsize shot slightly from above of a character sitting in a chair. The character is leaning forward, with their torso slightly angled toward the camera and hands resting on their thighs. The head is tilted upward, looking at the camera with an intense and direct expression."
+  },
+  {
+    "name": "Sitting 22",
+    "image": "Sitting 22.jpg",
+    "prompt": "A high-angle frontal shot of a character sitting in a minimalist chair. The character is leaning back so far that their head is tilted completely back, facing the ceiling. Their legs are extended forward and slightly spread, creating a long, relaxed line from the head to the toes."
+  },
+  {
+    "name": "Sitting 23",
+    "image": "Sitting 23.jpg",
+    "prompt": "A low-angle shot of a character sitting on a polished wooden surface, such as a piano. The character is leaning back, supported by one arm behind them, while the other hand is raised towards the neck. One leg is bent sharply, and the other is extended forward, creating a dramatic, wide-angled pose."
+  },
+  {
+    "name": "Sitting 24",
+    "image": "Sitting 24.jpg",
+    "prompt": "A medium full-body shot of side-view of a character sitting on a plush sofa. The character is twisting their upper body to look back over their shoulder at the camera. The pose emphasizes the curve of the back and shoulder, with a soft, relaxed seating position."
+  },
+  {
+    "name": "Sitting 25",
+    "image": "Sitting 25.jpg",
+    "prompt": "A medium fullsize shot of a woman in a deep, balanced crouch. One hand is raised, with fingers weaving through the hair at the top of the head, while the other hand rests near the knee. The woman is looking down and away, creating a sense of quiet concentration and dynamic tension in the lower body. Exposing her perfect bubble butt."
+  },
+  {
+    "name": "Sitting 26",
+    "image": "Sitting 26.jpg",
+    "prompt": "A medium fullsize side-profile shot of a character kneeling on the floor. The character's torso is twisted towards the camera, and one hand is resting flat on the thigh. The head is tilted slightly, and the long hair flows down the back, accentuating the elegant twist of the posture."
+  },
+  {
+    "name": "Sitting 27",
+    "image": "Sitting 27.jpg",
+    "prompt": "A medium shot of a character kneeling on the seat of a floral armchair. The character is upright, with one arm raised and the hand resting on the back of the head. The torso is slightly twisted, and the character is looking away from the camera."
+  },
+  {
+    "name": "Sitting 28",
+    "image": "Sitting 28.jpg",
+    "prompt": "A medium shot of a character sitting in a minimalist chair against a background. The character is leaning back comfortably with both hands raised and tucked behind the head. One leg is crossed over the other, with the foot pointing down, while the other leg is extended forward. The pose is relaxed and confident."
+  },
+  {
+    "name": "Sitting 29",
+    "image": "Sitting 29.jpg",
+    "prompt": "A medium shot of a character sitting on the floor, leaning back on one arm. The torso is twisted towards the camera, and the other hand is resting on the upper thigh. The character is looking over their shoulder with a slight tilt of the head."
+  },
+  {
+    "name": "Sitting 30",
+    "image": "Sitting 30.jpg",
+    "prompt": "A medium side-profile shot of a character kneeling on a sofa. The character's back is gracefully arched, and both hands are raised to the head, fingers running through the hair. The focus is on the curved silhouette and the tension in the arms and torso."
+  },
+  {
+    "name": "Sitting 31",
+    "image": "Sitting 31.jpg",
+    "prompt": "A rear view, low-angle shot of a character kneeling on a leather sofa. The character is positioned on all fours but leaning forward, with elbows resting on the backrest of the sofa. The back is arched, emphasizing the lower body and glutes. The head is turned slightly to the side, looking away from the camera."
+  },
+  {
+    "name": "Sitting 32",
+    "image": "Sitting 32.jpg",
+    "prompt": "A side profile shot of a character in a deep kneeling pose on a flat surface. The character is sitting back on their heels with the torso leaning forward and the back deeply arched. One hand is placed on the back of the neck, and the other is resting on the surface. The pose emphasizes a sharp, athletic silhouette."
+  },
+  {
+    "name": "Sitting 33",
+    "image": "Sitting 33.jpg",
+    "prompt": "A side view medium-full shot of a character sitting on a floor. One knee is raised high while the other leg is tucked beneath the body. One hand rests on the floor for support, and the character gazes directly at the camera. Both foots on the ground. The camera is at a low angle.",
+    "hint": "Сидит на паркетном полу, одно колено высоко поднято, одна рука опирается о пол."
+  },
+  {
+    "name": "Sitting 34",
+    "image": "Sitting 34.jpg",
+    "prompt": "A side view of full-body shot of a character sitting on a low stone wall. One leg is bent with the foot resting on the wall, while the other leg hangs naturally. One arm is extended behind for support, and the character looks at the camera with a gentle smile. The camera is at eye level.",
+    "hint": "Сидит на каменном парапете, одна нога согнута и стоит на парапете, другая опущена вниз."
+  },
+  {
+    "name": "Sitting 35",
+    "image": "Sitting 35.jpg",
+    "prompt": "A side view shot of a character kneeling on the floor. Both hands are raised and placed symmetrically over the chest. The head is tilted downwards and slightly to the side with eyes closed. The camera is at eye level.",
+    "hint": "Сидит на коленях лицом к камере, руки на груди, голова наклонена, глаза закрыты."
+  },
+  {
+    "name": "Sitting 36",
+    "image": "Sitting 36.jpg",
+    "prompt": "A side view shot of a character sitting on a vintage wooden desk. The legs are crossed at the thighs and extended forward. Both hands are raised and placed symmetrically over the upper chest. The character looks directly at the camera. The background is filled with antique objects.",
+    "hint": "Сидит на деревянном столе, ноги скрещены и вытянуты вперед, обе руки на груди."
+  },
+  {
+    "name": "Sitting 37",
+    "image": "Sitting 37.jpg",
+    "prompt": "A side view shot of a character sitting on the edge of a bed. The character is leaning back slightly, supported by straight arms behind them, with hands pressing into the mattress. The chest is pushed forward, the head is tilted back with eyes closed, and the legs are draped over the edge of the bed."
+  },
+  {
+    "name": "Sitting 38",
+    "image": "Sitting 38.jpg",
+    "prompt": "A side-angled medium-full shot of a character sitting on a sofa. The legs are extended forward and slightly apart. The upper body leans heavily back against the backrest of the sofa. The head is completely tilted back with eyes closed. The left hand rests on the left thigh, and the right hand is tucked near the hip.",
+    "hint": "Сидит на диване, ноги вытянуты вперед, корпус сильно откинут на спинку, голова полностью запрокинута назад."
+  },
+  {
+    "name": "Sitting 39",
+    "image": "Sitting 39.jpg",
+    "prompt": "A side-view medium shot of a character sitting on a wide windowsill. The torso is slightly leaned back, and the head is tilted downwards with a thoughtful expression. Both legs are bent at the knees with the feet resting on the ledge. The background shows a city skyline at sunset.",
+    "hint": "Сидит на подоконнике, корпус слегка отклонен назад, ноги согнуты, взгляд вниз."
+  },
+  {
+    "name": "Sitting 40",
+    "image": "Sitting 40.jpg",
+    "prompt": "A side-view shot of a character in a deep, compact crouch, leaning their back against a wall. The character's arms are crossed tightly over their chest, and their knees are drawn up close to the body. One foot is flat on the ground while the other is balanced on the toes. The character is looking away with a thoughtful expression."
+  },
+  {
+    "name": "Sitting 41",
+    "image": "Sitting 41.jpg",
+    "prompt": "A side-view shot of a character kneeling and sitting back on their heels. The character is twisting their torso to look back at the camera. One hand is raised to the face, with fingers lightly touching the jawline, while the other arm is resting against the body."
+  },
+  {
+    "name": "Sitting 42",
+    "image": "Sitting 42.jpg",
+    "prompt": "A side-view shot of a character kneeling, sitting back on their heels. The character is leaning their upper body back and twisting towards the camera. One hand is placed firmly on the hip, and the other is resting on the thigh. The pose emphasizes the curve of the waist and the confident tilt of the head."
+  },
+  {
+    "name": "Sitting 43",
+    "image": "Sitting 43.jpg",
+    "prompt": "A side-view shot of a character sitting on a chair, angled slightly away from the camera. One leg is stretched out long, while the other is bent. The character is twisting their torso to look back over their shoulder directly at the camera, with one hand resting on the seat for balance."
+  },
+  {
+    "name": "Sitting 44",
+    "image": "Sitting 44.jpg",
+    "prompt": "A side-view shot of a character sitting on a high stool. The character is turned away from the camera, with the head tilted down and arms folded across the chest. One leg is bent with the foot resting on the stool's rung. The camera is at eye level.",
+    "hint": "Черно-белое фото, сидит на высоком табурете боком к камере, руки прикрывают грудь, одна нога на перекладине."
+  },
+  {
+    "name": "Sitting 45",
+    "image": "Sitting 45.jpg",
+    "prompt": "A side-view shot of a character sitting on the very edge of a sofa. The character is twisting their torso towards the camera, while their legs are positioned to the side. One hand is resting on the sofa seat for support, and the character is looking back over their shoulder."
+  },
+  {
+    "name": "Sitting 46",
+    "image": "Sitting 46.jpg",
+    "prompt": "A slightly high-angle shot of a character sitting on the floor. The left leg is bent at the knee, while the right leg extends to the side. The character leans forward, supporting the upper body with both straight arms, hands resting flat on the floor in front. The head is tilted slightly down.",
+    "hint": "Сидит на полу, левая нога согнута, правая вытянута в сторону, опирается прямыми руками в пол перед собой."
+  },
+  {
+    "name": "Sitting 47",
+    "image": "Sitting 47.jpg",
+    "prompt": "A three-quarter rear-view shot of a character on all fours on a bed. The character is looking back over their shoulder with an intense gaze. One hand is resting firmly on the hip, highlighting the curve of the lower body. The camera is at a slightly low angle.",
+    "hint": "На четвереньках на кровати, взгляд через плечо, рука на бедре."
+  },
+  {
+    "name": "Sitting 48",
+    "image": "Sitting 48.jpg",
+    "prompt": "A wide-angle shot of a character sitting in a large armchair with a floral pattern. The character is leaning back with legs comfortably crossed, one foot extended toward the camera. The pose is relaxed and casual, with the character looking directly at the camera."
+  },
+  {
+    "name": "Sitting 49",
+    "image": "Sitting 49.jpg",
+    "prompt": "A wide-angle shot of a character sitting on the floor. The character's legs are extended long and crossed at the ankles. They are leaning back on their arms, with palms pressing into the surface behind them."
+  },
+  {
+    "name": "Sitting 50",
+    "image": "Sitting 50.jpg",
+    "prompt": "Crouching against a concrete wall, squatting low with one knee bent forward while the other leg extends backward slightly, hands resting over her lower back."
+  },
+  {
+    "name": "Sitting 51",
+    "image": "Sitting 51.jpg",
+    "prompt": "Kneeling on a couch, right hand against wall, left arm hanging loosely, posterior angled toward camera, legs spread slightly."
+  },
+  {
+    "name": "Sitting 52",
+    "image": "Sitting 52.jpg",
+    "prompt": "Kneeling on a floor, leaning back slightly while resting both hands near her breast; her left hand gently cups her right side, fingers splayed open, head tilting upward toward the ceiling with eyes closed."
+  },
+  {
+    "name": "Sitting 53",
+    "image": "Sitting 53.jpg",
+    "prompt": "Kneeling on her knees inside a commercial laundry machineвЂ™s open drum, positioned low against its interior wall near the bottom edge, head tilted back so face is not seen clearly, one foot extended outward toward the viewer while the other leg is bent inward slightly behind her torso."
+  },
+  {
+    "name": "Sitting 54",
+    "image": "Sitting 54.jpg",
+    "prompt": "Kneeling on the floor, legs bent inward toward her body while maintaining balance, hips remaining low and grounded, hands resting gently but deliberately across her upper torsoвЂ—fingers spread near each breast area, head tilting downward and to her left side."
+  },
+  {
+    "name": "Sitting 55",
+    "image": "Sitting 55.jpg",
+    "prompt": "Kneeling with hands bound by rope at the wrists, facing in profile with head slightly tilted upward.",
+    "hint": "Руки связаны верёвкой"
+  },
+  {
+    "name": "Sitting 56",
+    "image": "Sitting 56.jpg",
+    "prompt": "Seated cross-legged on a stool, leaning backward slightly, head tilted up, hands on thighs with one gripping hair."
+  },
+  {
+    "name": "Sitting 57",
+    "image": "Sitting 57.jpg",
+    "prompt": "Seated upright with arms resting gently across her lap or thighs, angled away from each other."
+  },
+  {
+    "name": "Sitting 58",
+    "image": "Sitting 58.jpg",
+    "prompt": "Side view. The girl is kneeling on the floor in front of the bed. Her legs are shoulder-width apart near bed. Her arms are bent at the elbows and resting on the bed, her palms are clasped and raised, her back is arched, and she is facing the camera."
+  },
+  {
+    "name": "Sitting 59",
+    "image": "Sitting 59.jpg",
+    "prompt": "Sitting atop a wooden cabinet, both hands placed gently over her upper chest area near her collarbone, fingers spread outward, legs extended forward across the surface of the cabinet top, feet dangling freely below with toes curled inward, one leg rests partially over anotherвЂ™s thigh."
+  },
+  {
+    "name": "Sitting 60",
+    "image": "Sitting 60.jpg",
+    "prompt": "Sitting cross-legged atop plush quilted bedding, one hand rests lightly on waistline area near hip bone while other arm crosses over torso just below shoulder line."
+  },
+  {
+    "name": "Sitting 61",
+    "image": "Sitting 61.jpg",
+    "prompt": "Sitting cross-legged atop the passenger-side rear bench of a car, leaning slightly forward while looking directly into the camera lens, one hand rests casually against the edge of the door panel behind her."
+  },
+  {
+    "name": "Sitting 62",
+    "image": "Sitting 62.jpg",
+    "prompt": "Sitting cross-legged on a gray carpeted floor, legs bent inward toward her torso, right arm resting flat out behind her back, palm down, gazing directly into the camera with an intense, unblinking stare."
+  },
+  {
+    "name": "Sitting 63",
+    "image": "Sitting 63.jpg",
+    "prompt": "Sitting cross-legged on a yoga mat but angled toward her right side, left hand lightly against the inner thigh of her raised leg."
+  },
+  {
+    "name": "Sitting 64",
+    "image": "Sitting 64.jpg",
+    "prompt": "Sitting cross-legged on a yoga mat, hands resting gently on her knees."
+  },
+  {
+    "name": "Sitting 65",
+    "image": "Sitting 65.jpg",
+    "prompt": "Sitting cross-legged on the floor, angled forward, one hand on the ground, other near thigh, looking at feet."
+  },
+  {
+    "name": "Sitting 66",
+    "image": "Sitting 66.jpg",
+    "prompt": "Sitting cross-legged on top of a row of laundry machines, looking slightly upward toward the right side of the frame with a pensive expression, legs spread wide apart, one hand rests gently against her left thigh while the other holds onto the edge of her own arm/shoulder region."
+  },
+  {
+    "name": "Sitting 67",
+    "image": "Sitting 67.jpg",
+    "prompt": "Sitting on a metal lounge chair outdoors, leaning forward slightly while seated, hands resting near her thighs, fingers interlaced together."
+  },
+  {
+    "name": "Sitting 68",
+    "image": "Sitting 68.jpg",
+    "prompt": "Sitting on a minimalist sofa, head tilted downward, knees drawn up close together, feet flat against the surface beside her hips."
+  },
+  {
+    "name": "Sitting 69",
+    "image": "Sitting 69.jpg",
+    "prompt": "Sitting on a round stool with legs crossed at the knee, arms resting loosely across lap."
+  },
+  {
+    "name": "Sitting 70",
+    "image": "Sitting 70.jpg",
+    "prompt": "Sitting on a windowsill, back partially turned, legs crossed slightly, feet on radiator, holding a plant stem."
+  },
+  {
+    "name": "Sitting 71",
+    "image": "Sitting 71.jpg",
+    "prompt": "Sitting sideways on a windowsill, leaning back, one hand touching face behind ear, legs crossed."
+  },
+  {
+    "name": "Sitting 72",
+    "image": "Sitting 72.jpg",
+    "prompt": "Sitting slouched across two front seat cushions inside a car, face shows closed eyes and slightly parted lips, a hand rests gently upon her lower abdomen while another arm extends outward toward the passenger side window frame."
+  },
+  {
+    "name": "Sitting 73",
+    "image": "Sitting 73.jpg",
+    "prompt": "Sitting slumped forward on the floor, one arm extends outwardly parallel to the ground while the other remains bent inward towards her torso."
+  },
+  {
+    "name": "Sitting 74",
+    "image": "Sitting 74.jpg",
+    "prompt": "Sitting slumped slightly against the backrest cushion of an armchair, face turned downward, eyes closed or looking downcast toward her lap, one hand rests near her hip while the other gently touches just above the inner thigh."
+  },
+  {
+    "name": "Sitting 75",
+    "image": "Sitting 75.jpg",
+    "prompt": "The photograph, taken from a low angle, depicts a woman kneeling, leaning back slightly. Her right hand is tugging at her bra, her gaze is cast downward, her lips are slightly parted, and her eyes are half-closed. Her body is slightly arched; her torso is tilted forward from the hips upward, revealing sculpted abs beneath bare skin. Her left hand grips her thigh near the hip joint, creating tension. Her legs are spread wide. She appears relaxed yet purposeful—sensuality is conveyed through her posture, not through overt movement or facial expression. Her clothing reveals her figure—the fullness of her muscle tone, the curve of her spine, and the fine lines along her neck, collarbone, and waist remain visible in natural light, without filters or overlays. The shot emphasizes elongation through the perspective distortion inherent in low-angle shots, focusing attention directly on the intimate details of anatomy exposed by the open pose and purposeful positioning."
+  },
+  {
+    "name": "Sitting 76",
+    "image": "Sitting 76.jpg",
+    "prompt": "Three-quarter rear view, kneeling on a dark surface, torso twisted to look back with eyes closed."
+  },
+  {
+    "name": "Sitting 77",
+    "image": "Sitting 77.jpg",
+    "prompt": "kneeling on a patterned blanket indoors, seated cross-legged low to floor level; right hand holds paintbrush poised above a canvas, left arm rests against torso."
+  },
+  {
+    "name": "Sitting 78",
+    "image": "Sitting 78.jpg",
+    "prompt": "seen from behind; sitting cross-legged on the ground, one hand raised toward her head, fingers in her hair."
+  },
+  {
+    "name": "Sitting 79",
+    "image": "Sitting 79.jpg",
+    "prompt": "sitting on a bed with her legs crossed and arms wrapped around them, looking directly into the camera."
+  },
+  {
+    "name": "Sitting 80",
+    "image": "Sitting 80.jpg",
+    "prompt": "sitting on a bench with her legs crossed; one hand against her chin while the other hangs relaxed beside her thigh."
+  },
+  {
+    "name": "Sitting 81",
+    "image": "Sitting 81.jpg",
+    "prompt": "sitting outdoors on a stone ledge, cross-legged and looking directly into the lens."
+  },
+  {
+    "name": "Sitting 82",
+    "image": "Sitting 82.jpg",
+    "prompt": "sitting provocatively atop an office desk with one leg crossed over the other and hands resting flat on the desk."
+  },
+  {
+    "name": "Sitting 83",
+    "image": "Sitting 83.jpg",
+    "prompt": "sitting sideways within an ornate antique armchair with one leg crossed over the other knee."
+  },
+  {
+    "name": "Sitting 84",
+    "image": "Sitting 84.jpg",
+    "prompt": "A full-body side-view shot of a character perched on the high edge or armrest of a sofa. One leg is extended straight down to the floor, while the other is bent at the knee. One hand is raised to the hair, and the other hand is resting on the thigh, creating a long, elegant line."
+  },
+  {
+    "name": "Sitting 85",
+    "image": "Sitting 85.jpg",
+    "prompt": "Positioned on hands and knees, back to camera, elbows bent, arms gripping bedding, hips tilted upward."
+  },
+  {
+    "name": "Sitting 86",
+    "image": "Sitting 86.jpg",
+    "prompt": "A low-angle shot from behind of a character on all fours, leaning forward. The legs are spread wide, and the character is looking back over their shoulder. The camera uses a Dutch angle to create a dynamic sense of depth and foreshortening.",
+    "hint": "Поза на четвереньках с широко раздвинутыми ногами, взгляд назад через плечо."
+  },
+  {
+    "name": "Sitting 87",
+    "image": "Sitting 87.jpg",
+    "prompt": "A front-view shot of a character performing the jack-o' challenge. The character is on all fours with their chest low to the ground and legs spread wide, creating a high-arched back. The camera is positioned at a low angle facing forward.",
+    "hint": "Поза 'Джек-о' (jack-o' challenge), на четвереньках с низко опущенной грудью и широко раздвинутыми ногами."
+  },
+  {
+    "name": "Sitting 88",
+    "image": "Sitting 88.jpg",
+    "prompt": "A high-angle side-profile shot of a character kneeling on the floor. They are leaning back significantly, supported by one arm on the ground while the other arm is placed between their legs. The perspective creates noticeable foreshortening of the torso and limbs.",
+    "hint": "Стоя на коленях, отклонившись назад, одна рука на полу, другая между ног."
+  },
+  {
+    "name": "Sitting 89",
+    "image": "Sitting 89.jpg",
+    "prompt": "A low-angle side view of a character kneeling and arching their back deeply. One arm provides support on the floor, another is wrapped behind the back, and a hand rests on their chest. The Dutch angle enhances the dramatic curve of the pose and the foreshortened perspective.",
+    "hint": "Коленопреклоненная поза с сильным прогибом назад, одна рука за спиной, другая на груди."
+  },
+  {
+    "name": "Sitting 90",
+    "image": "Sitting 90.jpg",
+    "prompt": "A shot from behind and slightly above of a character kneeling and leaning forward low to the ground. The character is looking back towards the camera. The soles of the feet are visible, and the Dutch angle emphasizes the spatial depth and the curve of the lower body.",
+    "hint": "На коленях, наклон вперед, взгляд назад, видны ступни."
+  },
+  {
+    "name": "Sitting 91",
+    "image": "Sitting 91.jpg",
+    "prompt": "A top-down shot from behind of a character in a dogeza-style kneeling position on the floor. The character is looking back over their shoulder. The camera uses a Dutch angle to focus on the arched back and the soles of the feet.",
+    "hint": "Поза догэдза (на коленях, лоб к полу), взгляд назад через плечо, вид сверху."
+  },
+  {
+    "name": "Sitting 92",
+    "image": "Sitting 92.jpg",
+    "prompt": "A side-view shot of a character in a dogeza position, kneeling with their torso pressed low to the floor. The camera is positioned at a Dutch angle, capturing the line from the arched back down to the visible soles of the feet.",
+    "hint": "Поза догэдза, вид сбоку под углом, тело прижато к полу."
+  },
+  {
+    "name": "Sitting 93",
+    "image": "Sitting 93.jpg",
+    "prompt": "A high-angle shot of a character kneeling on the floor. The character is leaning slightly forward and using their arms to cover their chest. The Dutch angle creates a sense of intimacy and highlights the foreshortened perspective of the body.",
+    "hint": "На коленях, наклон вперед, руки прикрывают грудь, вид сверху."
+  },
+  {
+    "name": "Sitting 94",
+    "image": "Sitting 94.jpg",
+    "prompt": "A rear-view shot of a character on all fours, leaning forward with their weight on their hands and knees. The pose emphasizes the elevation of the hips and the curve of the lower back. The camera is at a medium level directly behind the character.",
+    "hint": "На четвереньках, наклон вперед, вид сзади с акцентом на бедра."
+  },
+  {
+    "name": "Sitting 95",
+    "image": "Sitting 95.jpg",
+    "prompt": "A low-angle frontal shot of a character in a wide squatting position, leaning their weight backward. The legs are spread wide, and the Dutch angle creates a dynamic, foreshortened view of the limbs and torso.",
+    "hint": "В глубоком приседе с широко раздвинутыми ногами, отклонившись назад, вид снизу."
+  },
+  {
+    "name": "Sitting 96",
+    "image": "Sitting 96.jpg",
+    "prompt": "A low-angle front-view shot of a character squatting on one knee. One arm is tucked behind their back while the other hand rests on their chest. The character's posture is upright and centered in the frame.",
+    "hint": "Присев на одно колено, одна рука за спиной, другая на груди, вид спереди."
+  },
+  {
+    "name": "Sitting 97",
+    "image": "Sitting 97.jpg",
+    "prompt": "A high-angle side view of a character kneeling and arching their back gracefully while looking back over their shoulder. The pose creates a strong S-curve from the head down to the knees. The Dutch angle adds to the dynamic feel of the foreshortened body.",
+    "hint": "На коленях, прогиб в спине, взгляд назад, вид сверху сбоку."
+  },
+  {
+    "name": "Sitting 98",
+    "image": "Sitting 98.jpg",
+    "prompt": "A shot from behind of a character sitting in a traditional seiza position on their heels. The character is twisting their torso to look back directly at the camera. The composition is simple and focuses on the character's posture.",
+    "hint": "Сидя в позе сэйза (на пятках), поворот головы назад, вид сзади."
+  },
+  {
+    "name": "Sitting 99",
+    "image": "Sitting 99.jpg",
+    "prompt": "A symmetrical rear-view shot of a character sitting on the floor with their knees spread apart. The focus is on the straight line of the back and the balanced positioning of the limbs against a simple background.",
+    "hint": "Сидя спиной к камере, колени разведены, симметричная поза."
+  },
+  {
+    "name": "Sitting 100",
+    "image": "Sitting 100.jpg",
+    "prompt": "A low-angle shot from behind and to the side of a character sitting on the floor. One arm is used for support on the ground as the character twists their torso to look back. The perspective emphasizes the curves of the hips and back.",
+    "hint": "Сидя на полу с опорой на руку, взгляд назад через плечо, вид сзади снизу."
+  },
+  {
+    "name": "Sitting 101",
+    "image": "Sitting 101.jpg",
+    "prompt": "A shot of a character sitting on the floor with their legs spread apart and one knee raised towards their chest. The camera is tilted at a Dutch angle, capturing the relaxed yet asymmetrical arrangement of the limbs.",
+    "hint": "Сидя на полу, ноги разведены, одно колено поднято, голландский угол."
+  },
+  {
+    "name": "Sitting 102",
+    "image": "Sitting 102.jpg",
+    "prompt": "An asymmetrical shot of a character sitting on their side with one leg tucked in and the other knee raised. The soles of the feet are brought near each other, creating a complex leg arrangement. The camera angle is tilted, focusing on the foreshortened legs and feet.",
+    "hint": "Сидя на боку, одно колено поднято, стопы сведены вместе, асимметричная поза."
+  },
+  {
+    "name": "Sitting 103",
+    "image": "Sitting 103.jpg",
+    "prompt": "A rear-view profile shot of a character sitting with their legs spread wide and looking back over their shoulder. The soles of the feet are visible, and the character's back is slightly arched, highlighting the overall silhouette from behind.",
+    "hint": "Сидя спиной, ноги широко разведены, взгляд назад через плечо."
+  },
+  {
+    "name": "Sitting 104",
+    "image": "Sitting 104.jpg",
+    "prompt": "A side-view shot of a character sitting and leaning backward. One arm is raised and tucked behind the head, exposing the armpit and stretching the torso. The other hand provides support on the ground.",
+    "hint": "Сидя с наклоном назад, рука за головой, вид сбоку."
+  },
+  {
+    "name": "Sitting 105",
+    "image": "Sitting 105.jpg",
+    "prompt": "A frontal 'cowboy shot' (mid-thigh up) of a character sitting on their side on the floor. They are supporting their weight with one arm while the other hand is placed near their face. The pose is relaxed and casual.",
+    "hint": "Сидя на боку с опорой на руку, рука у лица, план 'ковбойский' (по бедра)."
+  },
+  {
+    "name": "Sitting 106",
+    "image": "Sitting 106.jpg",
+    "prompt": "A low-angle frontal shot of a character in a wide squat, leaning their weight backward. The legs are spread wide, and the Dutch angle creates a dynamic, foreshortened view of the limbs and torso.",
+    "hint": "Глубокий присед, ноги широко разведены, наклон назад, вид снизу под углом."
+  },
+  {
+    "name": "Sitting 107",
+    "image": "Sitting 107.jpg",
+    "prompt": "A shot of a character sitting with their knees pressed together and their feet spread apart (wariza-style). The camera is at a Dutch angle, focusing on the specific arrangement of the legs and the symmetry of the lower body.",
+    "hint": "Сидя, колени вместе, ступни врозь, голландский угол."
+  },
+  {
+    "name": "Sitting 108",
+    "image": "Sitting 108.jpg",
+    "prompt": "A side-view shot of a character in a dogeza position, kneeling with their torso pressed low to the floor. The camera is positioned at a Dutch angle, capturing the line from the arched back down to the visible soles of the feet.",
+    "hint": "Поза догэдза, вид сбоку под углом, спина выгнута."
+  },
+  {
+    "name": "Sitting 109",
+    "image": "Sitting 109.jpg",
+    "prompt": "An overhead view from behind of a character on all fours with their legs spread wide. The camera looks down at a steep angle, emphasizing the width of the pose and the curve of the back.",
+    "hint": "Вид сверху сзади, на четвереньках, ноги широко разведены."
+  },
+  {
+    "name": "Sitting 110",
+    "image": "Sitting 110.jpg",
+    "prompt": "A front-view shot of a character performing the jack-o' challenge. The character is on all fours with their chest low to the ground and legs spread wide, creating a high-arched back. The camera is positioned at a low angle facing forward.",
+    "hint": "Поза 'Джек-о', вид спереди, грудь у пола, таз поднят."
+  },
+  {
+    "name": "Sitting 111",
+    "image": "Sitting 111.jpg",
+    "prompt": "A low-angle shot from behind of a character on all fours, leaning forward. The legs are spread wide, and the character is looking back over their shoulder. The camera uses a Dutch angle to create dynamic foreshortening.",
+    "hint": "На четвереньках, ноги широко, взгляд назад, вид снизу под углом."
+  },
+  {
+    "name": "Sitting 112",
+    "image": "Sitting 112.jpg",
+    "prompt": "A shot from behind and slightly above of a character kneeling and leaning forward low to the ground. The character is looking back towards the camera. The soles of the feet are visible, and the Dutch angle emphasizes the spatial depth.",
+    "hint": "На коленях, наклон вперед, взгляд назад, видны подошвы стоп."
+  },
+  {
+    "name": "Sitting 113",
+    "image": "Sitting 113.jpg",
+    "prompt": "A low-angle side view of a character in a wariza kneeling position (sitting between their feet). The character is leaning back and arching their spine while looking back over their shoulder. The Dutch angle highlights the dramatic curves of the pose.",
+    "hint": "Сидя между пяток (варидза), прогиб назад, взгляд через плечо, вид снизу сбоку."
+  }
+]

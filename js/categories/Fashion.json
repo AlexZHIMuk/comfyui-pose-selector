@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Fashion 01",
+    "image": "Fashion 01.jpg",
+    "prompt": "Standing in a three-quarter shot, body turned slightly away from the camera, head looking back over one shoulder, one hand resting on the hip, weight entirely shifted to the back leg.",
+    "hint": "Стоя в три четверти, взгляд через плечо, рука на бедре."
+  },
+  {
+    "name": "Fashion 02",
+    "image": "Fashion 02.jpg",
+    "prompt": "Facing the camera in a 3/4 portrait, arms loosely crossed at the midriff, chin tilted slightly down with gaze directed upwards, relaxed shoulders.",
+    "hint": "Портрет в три четверти, руки скрещены на талии, взгляд исподлобья."
+  },
+  {
+    "name": "Fashion 03",
+    "image": "Fashion 03.jpg",
+    "prompt": "Leaning sideways against a vertical surface, one hand delicately touching the collarbone, body at a slight angle to the lens, relaxed posture, looking off-camera.",
+    "hint": "Опираясь на стену, рука у ключицы, взгляд в сторону."
+  },
+  {
+    "name": "Fashion 04",
+    "image": "Fashion 04.jpg",
+    "prompt": "Standing straight in a three-quarter framing, both hands placed in front pockets with thumbs hanging out, chest open, shoulders drawn slightly back, confident forward gaze.",
+    "hint": "Стоя прямо, руки в передних карманах, уверенный взгляд вперед."
+  },
+  {
+    "name": "Fashion 05",
+    "image": "Fashion 05.jpg",
+    "prompt": "Sitting on a high stool in a 3/4 crop, one leg straight down, the other leg bent at the knee, elbows lightly resting on the bent knee, leaning forward towards the camera.",
+    "hint": "Сидя на высоком стуле, наклон вперед, локти на колене."
+  },
+  {
+    "name": "Fashion 06",
+    "image": "Fashion 06.jpg",
+    "prompt": "Body angled naturally 45 degrees away from the lens, one arm hanging straight down, opposite hand casually brushing through the hair near the temple, neutral stance.",
+    "hint": "Поворот корпуса 45 градусов, рука поправляет волосы у виска."
+  },
+  {
+    "name": "Fashion 07",
+    "image": "Fashion 07.jpg",
+    "prompt": "Standing with weight on one leg to form a distinct S-curve silhouette, one hand gently resting behind the neck, the other arm relaxed by the side, three-quarter body composition.",
+    "hint": "S-образный силуэт, рука за шеей, поза в три четверти."
+  },
+  {
+    "name": "Fashion 08",
+    "image": "Fashion 08.jpg",
+    "prompt": "Symmetrical frontal pose in a 3/4 crop, both hands resting softly on the upper thighs, elbows pointing slightly outwards creating sharp angles, slight head tilt.",
+    "hint": "Симметричная фронтальная поза, руки на бедрах, легкий наклон головы."
+  },
+  {
+    "name": "Fashion 09",
+    "image": "Fashion 09.jpg",
+    "prompt": "Dynamic mid-stride walking pose in three-quarter view, torso gently twisted towards the camera, arms naturally swinging, relaxed forward lean.",
+    "hint": "В движении, шаг в три четверти, легкий поворот корпуса."
+  },
+  {
+    "name": "Fashion 10",
+    "image": "Fashion 10.jpg",
+    "prompt": "Seated sideways with torso twisted to face the camera directly, back naturally arched, hands placed delicately together on the lap, 3/4 framing.",
+    "hint": "Сидя боком, корпус развернут к камере, руки на коленях."
+  },
+  {
+    "name": "Fashion 11",
+    "image": "Fashion 11.jpg",
+    "prompt": "Standing in a three-quarter back view, upper back arched to emphasize the curve of the lower hips. The torso is twisted, with the head looking back over the shoulder. Both arms are elegantly raised near the upper chest and shoulders. The body weight is resting firmly on the front leg.",
+    "hint": "Вид сзади в три четверти, прогиб в спине, взгляд через плечо."
+  },
+  {
+    "name": "Fashion 12",
+    "image": "Fashion 12.jpg",
+    "prompt": "A fluid standing pose angled slightly to a 3/4 view. The head is dramatically tilted back with the chin raised upwards. One arm is draped elegantly across the upper chest, while the other arm stretches downwards alongside the body, with fingers resting lightly near the hip over the upper thigh.",
+    "hint": "Голова запрокинута, рука на груди, другая вдоль тела."
+  },
+  {
+    "name": "Fashion 13",
+    "image": "Fashion 13.jpg",
+    "prompt": "Standing confidently with one hand resting on her collarbone while the other lightly touches her thigh near the hip.",
+    "hint": "Уверенная поза стоя, одна рука у ключицы, другая на бедре."
+  },
+  {
+    "name": "Fashion 14",
+    "image": "Fashion 14.jpg",
+    "prompt": "Standing facing slightly toward the camera, one hand resting lightly near her thigh while the other hangs loosely by her side.",
+    "hint": "Стоя лицом к камере, одна рука на бедре, другая расслаблена."
+  },
+  {
+    "name": "Fashion 15",
+    "image": "Fashion 15.jpg",
+    "prompt": "Lying on her back on a couch, right hand resting near her waist/hip area while her left arm curves behind her head, fingers loosely curled, looking upward toward the ceiling with eyes half-closed or closed.",
+    "hint": "Лежа на спине, одна рука за головой, взгляд в потолок."
+  },
+  {
+    "name": "Fashion 16",
+    "image": "Fashion 16.jpg",
+    "prompt": "Standing tall with legs slightly apart, chin lifted forward, gaze directed straight ahead towards the viewer, one hand rests near her hip while the other lightly touches behind her ear.",
+    "hint": "Высокая стойка, подбородок поднят, рука за ухом."
+  },
+  {
+    "name": "Fashion 17",
+    "image": "Fashion 17.jpg",
+    "prompt": "Kneeling low with legs crossed slightly forward, hands framing face with fingers grazing cheekbones.",
+    "hint": "На коленях, руки обрамляют лицо, пальцы у скул."
+  },
+  {
+    "name": "Fashion 18",
+    "image": "Fashion 18.jpg",
+    "prompt": "standing on a balcony with one hand raised near her lips while the other arm extends upward behind her head.",
+    "hint": "На балконе, одна рука у губ, другая за головой."
+  },
+  {
+    "name": "Fashion 19",
+    "image": "Fashion 19.jpg",
+    "prompt": "standing confidently beside a sports car, with one hand resting on the rear fender and the other leaning on the side panel.",
+    "hint": "Стоя у спорткара, руки опираются на корпус машины."
+  },
+  {
+    "name": "Fashion 20",
+    "image": "Fashion 20.jpg",
+    "prompt": "standing in a dimly lit corridor with hands gripping handles of a large black handbag.",
+    "hint": "В коридоре, обе руки держат ручки сумки."
+  },
+  {
+    "name": "Fashion 21",
+    "image": "Fashion 21.jpg",
+    "prompt": "Standing in profile, head turned to camera, one hand on bralette edge, left leg bent backward, hips tilted up.",
+    "hint": "В профиль, голова к камере, одна нога согнута назад."
+  },
+    {
+    "name": "Fashion 22",
+    "image": "Fashion 22.jpg",
+    "prompt": "A frontal medium-full shot of a character walking towards the camera. The character is captured in mid-stride, looking slightly to the side with a neutral expression. One hand hangs naturally by the side, and a small bag is slung over the shoulder.",
+    "hint": "Идет по тротуару прямо на камеру, взгляд слегка в сторону, естественная поза."
+  }
+]
