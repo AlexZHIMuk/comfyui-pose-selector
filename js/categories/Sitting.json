@@ -616,5 +616,10 @@
     "image": "Sitting 113.jpg",
     "prompt": "A low-angle side view of a character in a wariza kneeling position (sitting between their feet). The character is leaning back and arching their spine while looking back over their shoulder. The Dutch angle highlights the dramatic curves of the pose.",
     "hint": "Сидя между пяток (варидза), прогиб назад, взгляд через плечо, вид снизу сбоку."
-  }
+  },
+  {
+    "name": "Sitting 114",
+    "image": "Sitting 114.jpg",
+    "prompt": "A similar shot of a character in a armchair. The character is leaning back more deeply, with one arm raised high above the head and the other resting on the armrest. The legs are extended forward, creating a long, relaxed line."
+  },
 ]
