@@ -621,5 +621,21 @@
     "name": "Sitting 114",
     "image": "Sitting 114.jpg",
     "prompt": "A similar shot of a character in a armchair. The character is leaning back more deeply, with one arm raised high above the head and the other resting on the armrest. The legs are extended forward, creating a long, relaxed line."
+  },
+  {
+    "name": "Sitting 115",
+    "image": "Sitting 115.jpg",
+    "prompt": "leaning against a plain wall with one hand gently across her upper chest."
+  },
+  {
+    "name": "Sitting 116",
+    "image": "Sitting 116.jpg",
+    "prompt": "Leaning forward over the backrest of a ergonomic swivel office chair, positioning herself so that her rear end forms a prominent curve visible behind the chair structure, head tilted subtly toward one shoulder.",
+    "hint": "Сидит коленами на стуле опираясь на спинку"
+  },
+  {
+    "name": "Sitting 117",
+    "image": "Sitting 117.jpg",
+    "prompt": "posing seductively with hands resting on her torso and her right leg resting atop her left knee."
   }
 ]

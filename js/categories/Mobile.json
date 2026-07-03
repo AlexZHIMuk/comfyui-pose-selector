@@ -59,13 +59,13 @@
     "prompt": "Coffee cup selfie, holding phone with one hand and a coffee cup near the face with the other, capturing the lifestyle vibe.",
     "hint": "Селфи с чашкой кофе у лица, лайфстайл-кадр."
   },
-    {
+  {
     "name": "Mobile 11",
     "image": "Mobile 11.jpg",
     "prompt": "A three-quarter rear-view shot of a character taking a mirror selfie. The character is standing side-profile to the camera, looking at their own reflection. One hand holds a mobile phone at chest level. The pose emphasizes the curve of the lower back and glutes.",
     "hint": "Селфи в зеркале, вид сбоку-сзади, акцент на изгибе спины и бедер."
   },
- {
+  {
     "name": "Mobile 12",
     "image": "Mobile 12.jpg",
     "prompt": "A medium frontal shot of a woman standing and leaning slightly forward. Her shoulders are slightly hunched, and her gaze is fixed on the camera with a subtle, confident smile.",
@@ -172,5 +172,20 @@
     "image": "Mobile 29.jpg",
     "prompt": "A medium shot of a standing woman. She is leaning with her left arm. She is looking at the camera with a confident expression.",
     "hint": "На балконе, опора на перила, уверенный взгляд."
+  },
+  {
+    "name": "Mobile 30",
+    "image": "Mobile 30.jpg",
+    "prompt": "Lying on her stomach on a hospital bed, face partially obscured, gazing downward intently toward a small electronic device held firmly in both hands, elbows bent under her shoulders, spine slightly arched forward, head lowered into the crease between her arms."
+  },
+  {
+    "name": "Mobile 31",
+    "image": "Mobile 31.jpg",
+    "prompt": "Standing in profile view next to a bed, leaning against a wall, arms bent at the elbows with fingers gripping a phone, holding a towel loosely around her torso."
+  },
+  {
+    "name": "Mobile 32",
+    "image": "Mobile 32.jpg",
+    "prompt": "Standing with one hand on hip, the other raised near cheekbone forming a \"phone\" gesture."
   }
 ]
