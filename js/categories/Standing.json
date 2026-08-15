@@ -788,5 +788,31 @@
     "image": "Standing 146.jpg",
     "prompt": "A low-angle side-view shot of a character in a complex, dynamic pose. The character is standing with an S-shaped body curve, leaning forward while simultaneously arching their back. One hip is thrust aside in an asymmetrical contrapposto stance.",
     "hint": "Динамичная стоячая поза с изгибом и наклоном, вид снизу сбоку."
+  },
+  {
+    "name": "Standing 147",
+    "image": "Standing 147.jpg",
+    "prompt": "standing, leaning against wall corner, right hand pulling down undies, left hand resting near hip, exposed abdomen, bare legs, bare feet",
+    "hint": ""
+  },
+  {
+    "name": "Standing 148",
+    "image": "Standing 148.jpg",
+    "prompt": "arms crossed over chest, hands resting on shoulders, head turned towards camera, side profile pose"
+  },
+  {
+    "name": "Standing 149",
+    "image": "Standing 149.jpg",
+    "prompt": "standing, head tilted back, eyes closed, right arm raised behind head, left hand touching breast"
+  },
+  {
+    "name": "Standing 150",
+    "image": "Standing 150.jpg",
+    "prompt": "sticking tongue out, hands near waist, standing, side profile, exposed buttocks, exposed abdomen, exposed hips"
+  },
+  {
+    "name": "Standing 151",
+    "image": "Standing 151.jpg",
+    "prompt": "standing, looking over shoulder, hand on hip, adjusting waistband, side profile view"
   }
 ]
